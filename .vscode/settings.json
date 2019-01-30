@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "__error": "Not found",
+    "node_modules": true,
+    ".vscode": true,
+    "yarn-error.log": true,
+    "yarn.lock": true,
+    ".gitignore": true
+  }
+}
